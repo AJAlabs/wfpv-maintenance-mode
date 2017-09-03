@@ -1,6 +1,6 @@
 <?php
 /**
- * Maintenance mode template that's shown to logged out users.
+ * Maintenance mode and coming soon template for Westchester FPV Racing.
  *
  * @package   wfpv-maintenance-mode
  * @copyright Copyright (c) 2017, AJ Acevedo
