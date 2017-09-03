@@ -1,6 +1,8 @@
 ## WestchesterFPVRacing.com - "Westchester FPV Racing!"
 
-This is the custom maintenance mode and coming soon WordPress plugin for [WestchesterFPVRacing.com](WestchesterFPVRacing.com). 
+This is the custom maintenance mode and coming soon WordPress plugin for [WestchesterFPVRacing.com](https://WestchesterFPVRacing.com). 
+
+Copy this plugin into wp-content/plugins then activate the plugin from the WordPress Dashboard.
 
 ### Author
 
