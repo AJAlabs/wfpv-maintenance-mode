@@ -13,7 +13,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Westchester FPV Racing">
+    <meta name="description" content="Westchester FPV Racing is an official MultiGP drone racing chapter based out of Westchester County in New York. We race, we fly and we organize FPV Drone Racing Events. If drone racing is the sport of the future, the future looks awesome! Join us!">
     <meta name="author" content="AJ Acevedo">
     <link rel="shortcut icon" href="assets/img/favicon.png">
     <link rel="shortcut icon" href="<?php echo plugins_url( 'assets/img/favicon.png', dirname( __FILE__ ) ); ?>">
