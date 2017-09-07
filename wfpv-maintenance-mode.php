@@ -3,7 +3,7 @@
  * Plugin Name: WFPV Maintenance Mode
  * Plugin URI: https://github.com/AJAlabs/wfpv-maintenance-mode
  * Description: Display a custom Coming Soon and Maintenance page for Westchester FPV Racing when this plugin is activated.
- * Version: 1.0
+ * Version: 1.0.1
  * Author: AJ Acevedo
  * Author URI: http://ajalabs.com
  * License: GPL2
