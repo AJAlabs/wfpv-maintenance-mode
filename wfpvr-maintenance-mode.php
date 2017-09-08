@@ -1,5 +1,5 @@
 <?php
-/*
+/**
  * Plugin Name: WFPVR Maintenance Mode
  * Plugin URI: https://github.com/AJAlabs/wfpvr-maintenance-mode
  * Description: Display a custom Coming Soon and Maintenance page for Westchester FPV Racing when this plugin is activated.
@@ -17,10 +17,13 @@
  * Maintenance Page
  *
  * Displays the coming soon page for anyone who's not logged in.
- * The login page gets excluded so that you can login if necessary.
+ * The login page is excluded in order for administrators to log in.
  *
  * @return void
  */
+
+// Exit if accessed directly
+if ( ! defined( 'ABSPATH' ) ) exit;
 
 function wfpvr_maintenance_mode() {
 	global $pagenow;
