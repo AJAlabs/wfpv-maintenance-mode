@@ -1,14 +1,14 @@
 <?php
 /*
  * Plugin Name: WFPV Maintenance Mode
- * Plugin URI: https://github.com/AJAlabs/wfpv-maintenance-mode
+ * Plugin URI: https://github.com/AJAlabs/wfpvr-maintenance-mode
  * Description: Display a custom Coming Soon and Maintenance page for Westchester FPV Racing when this plugin is activated.
- * Version: 1.0.1
+ * Version: 1.1
  * Author: AJ Acevedo
  * Author URI: http://ajalabs.com
  * License: GPL2
  *
- * @package wfpv-maintenance-mode
+ * @package wfpvr-maintenance-mode
  * @copyright Copyright (c) 2017, AJ Acevedo
  * @license GPL2+
 */
@@ -22,7 +22,7 @@
  * @return void
  */
 
-function ng_maintenance_mode() {
+function wfpvr_maintenance_mode() {
 	global $pagenow;
 	if ( $pagenow !== 'wp-login.php' && ! current_user_can( 'manage_options' ) && ! is_admin() ) {
 		header( 'HTTP/1.1 Service Unavailable', true, 503 );
@@ -34,4 +34,4 @@ function ng_maintenance_mode() {
 	}
 }
 
-add_action( 'wp_loaded', 'ng_maintenance_mode' );
+add_action( 'wp_loaded', 'wfpvr_maintenance_mode' );

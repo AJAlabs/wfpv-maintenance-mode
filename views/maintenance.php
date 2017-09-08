@@ -2,7 +2,7 @@
 /**
  * Maintenance mode and coming soon template for Westchester FPV Racing.
  *
- * @package   wfpv-maintenance-mode
+ * @package   wfpvr-maintenance-mode
  * @copyright Copyright (c) 2017, AJ Acevedo
  * @license   GPL2+
  */
