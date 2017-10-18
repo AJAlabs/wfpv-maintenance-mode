@@ -60,7 +60,7 @@
           <a data-toggle="tooltip" title="facebook" href="https://www.facebook.com/groups/663200123864906/"><i class="fa fa-facebook-square"></i></a>
                     <a data-toggle="tooltip" title="Instagram" href="https://www.instagram.com/westchesterfpvracing/"><i class="fa fa-instagram"></i></a>
           <a data-toggle="tooltip" title="YouTube" href="https://www.youtube.com/watch?v=KiJ7x9Mtneg"><i class="fa fa-youtube-square"></i></a>
-          <a data-toggle="tooltip" title="Contact" href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#119;&#101;&#115;&#116;&#099;&#104;&#101;&#114;&#115;&#116;&#101;&#114;&#102;&#112;&#118;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"><i class="fa fa-envelope"></i></a>
+          <a data-toggle="tooltip" title="Contact" href="&#109;&#097;&#105;&#108;&#116;&#111;:&#119;&#101;&#115;&#116;&#099;&#104;&#101;&#115;&#116;&#101;&#114;&#102;&#112;&#118;&#114;&#097;&#099;&#105;&#110;&#103;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;"><i class="fa fa-envelope"></i></a>
           <a data-toggle="tooltip" title="MultiGP" href="http://www.multigp.com/chapters/view/?chapter=Westchester-FPV-Racing"><i class="fa fa-flag-checkered"></i></a>
         </div>
       </div>
